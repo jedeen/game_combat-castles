@@ -1,5 +1,5 @@
-# 1gam-jan-2017
-January 2017 #onegameamonth: Combat Castles
+# game-jan-2017
+January 2017: Combat Castles
 
 # Combat Castles
 A strategy game for 2 players
